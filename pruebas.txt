@@ -1,1 +1,6 @@
 hola xd esto no es un meme auxilio me desmayo aaaarejnf 
+
+
+mas modificaciones para hacer push
+le das al + -> luego se va arriba y te pide hacer commit (agregar nombre del envio)
+-> enviar
